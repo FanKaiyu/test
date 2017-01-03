@@ -1,66 +1,14 @@
-{\rtf1\ansi\ansicpg950\cocoartf1504\cocoasubrtf600
-{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;}
-{\colortbl;\red255\green255\blue255;\red129\green144\blue144;\red252\green244\blue220;\red83\green104\blue112;
-\red33\green118\blue199;\red165\green119\blue5;\red37\green146\blue134;}
-{\*\expandedcolortbl;\csgray\c100000;\cssrgb\c57647\c63137\c63137;\cssrgb\c99216\c96471\c89020;\cssrgb\c39608\c48235\c51373;
-\cssrgb\c14902\c54510\c82353;\cssrgb\c70980\c53725\c0;\cssrgb\c16471\c63137\c59608;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
-\deftab720
-\pard\pardeftab720\sl400\partightenfactor0
-
-\f0\fs24 \cf2 \cb3 \expnd0\expndtw0\kerning0
-<?xml version="1.0" encoding="UTF-8"?>\cf4 \
-\cf2 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">\cf4 \
-<\cf5 plist\cf4  \cf6 version\cf4 =\cf7 "1.0"\cf4 >\
-<\cf5 dict\cf4 >\
-    <\cf5 key\cf4 >items</\cf5 key\cf4 >\
-    <\cf5 array\cf4 >\
-        <\cf5 dict\cf4 >\
-            <\cf5 key\cf4 >assets</\cf5 key\cf4 >   \
-\
-          <\cf5 array\cf4 >\
-              <\cf5 dict\cf4 >\
-                  <\cf5 key\cf4 >kind</\cf5 key\cf4 >\
-                  <\cf5 string\cf4 >software-package</\cf5 string\cf4 >\
-                  <\cf5 key\cf4 >url</\cf5 key\cf4 >\
-                  <\cf5 string\cf4 >https://github.com/FanKaiyu/test/blob/master/RegAppWebView.ipa</\cf5 string\cf4 >\
-              </\cf5 dict\cf4 > \
-\
-              <\cf5 dict\cf4 >\
-                    <\cf5 key\cf4 >kind</\cf5 key\cf4 >\
-                    <\cf5 string\cf4 >display-image</\cf5 string\cf4 >\
-                    <\cf5 key\cf4 >needs-shine</\cf5 key\cf4 >\
-                    <\cf5 true\cf4 />\
-                    <\cf5 key\cf4 >url</\cf5 key\cf4 >\
-                    <\cf5 string\cf4 >https://github.com/FanKaiyu/test/blob/master/iTunesArtwork%401x.png</\cf5 string\cf4 >\
-                </\cf5 dict\cf4 >\
-\
-                <\cf5 dict\cf4 >\
-                    <\cf5 key\cf4 >kind</\cf5 key\cf4 >\
-                    <\cf5 string\cf4 >full-size-image</\cf5 string\cf4 >\
-                    <\cf5 key\cf4 >needs-shine</\cf5 key\cf4 >\
-                    <\cf5 true\cf4 />\
-                    <\cf5 key\cf4 >url</\cf5 key\cf4 >\
-                    <\cf5 string\cf4 >https://github.com/FanKaiyus/test/blob/master/iTunesArtwork%401x.png</\cf5 string\cf4 >\
-                </\cf5 dict\cf4 >\
-           </\cf5 array\cf4 >\
-\
-            <\cf5 key\cf4 >metadata</\cf5 key\cf4 >\
-\
-            <\cf5 dict\cf4 >\
-                <\cf5 key\cf4 >bundle-identifier</\cf5 key\cf4 >\
-                <\cf5 string\cf4 >tw.com.syscom.M</\cf5 string\cf4 >\
-                <\cf5 key\cf4 >bundle-version</\cf5 key\cf4 >\
-                <\cf5 string\cf4 >1.0.0</\cf5 string\cf4 >\
-                <\cf5 key\cf4 >kind</\cf5 key\cf4 >\
-                <\cf5 string\cf4 >software</\cf5 string\cf4 >\
-                <\cf5 key\cf4 >title</\cf5 key\cf4 >\
-                <\cf5 string\cf4 >test</\cf5 string\cf4 >\
-            </\cf5 dict\cf4 >\
-\
-        </\cf5 dict\cf4 >\
-    </\cf5 array\cf4 >\
-</\cf5 dict\cf4 >\
-</\cf5 plist\cf4 >
-\fs26 \
-}
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <title>Install</title>
+    </head>
+    <body>
+        <p align=center>
+          <font size="10">
+            <a style="color:#69DEDA" href="itms-services://?action=download-manifest&url=https://github.com/FanKaiyu/test/blob/master/install.plist">安裝</a>
+          </font>
+        </p>
+    </body>
+</html>
